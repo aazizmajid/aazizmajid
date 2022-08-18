@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdul Aziz (@aazizmajid)
-- 👀 I’m interested in GIS, Python, JavaScript, C#, R
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on GIS, Python Projects
+- 👀 I’m interested in GIS, DataScience, Software Development
+- 🌱 I’m currently learning Python, JavaScript, C#, R, ...
+- 💞️ I’m looking to collaborate on GIS, DataScience Projects
 - 📫 How to reach me (Email: aazizmajid2@gmail.com)
 
 <!---
